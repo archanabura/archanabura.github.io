@@ -3,7 +3,7 @@ title: "Throughput of TCP over Cognitive Radio Channels, Sudheer Poojary, Akash 
 collection: publications
 category: conferences
 permalink: /publication/Globecom
-excerpt: 'This paper is about fixing template issue #693.'
+#excerpt: 'This paper is about fixing template issue #693.'
 date: 2015-04-17
 venue: 'Globecom'
 paperurl: 'http://archanabura.github.io/files/paper3.pdf'
