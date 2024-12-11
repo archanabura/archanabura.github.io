@@ -10,4 +10,4 @@ Hello, I am a post doctoral scholar at University of California San Diego, in th
 
 I obtained Masters in Engineering degree from Electrical and Computer Engineering Department at Indian Institute of Science, Bengaluru. My thesis was supervised by Prof. Vinod Sharma. Prior to joining the PhD program, I worked as a Research Assistant at ECE Department, Indian Institute of science, with Prof. Parimal Parag. Prior to that, I also worked for Samsung R&D Institute, Bengaluru. 
 
-I am currently on the academic job market this cycle. I am also interested in research positions in industry.
+I am on the academic job market this cycle. I am also interested in research positions in industry.
