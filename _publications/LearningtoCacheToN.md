@@ -3,7 +3,7 @@ title: "Learning to Cache and Caching to Learn: Regret Analysis of Caching Algor
 collection: publications
 category: Journals
 permalink: /publication/LearningtoCacheToN
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+# excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2021-10-01
 venue: 'IEEE Transactions on Networking'
 slidesurl: 'http://archanabura.github.io/files/slides3.pdf'
