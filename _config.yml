@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Archana Bura / "
+title                    : "Archana Bura"
 title_separator          : "-"
 name                     : &name "Archana Bura"
 description              : &description "personal description"
