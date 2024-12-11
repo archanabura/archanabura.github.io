@@ -1,7 +1,7 @@
 ---
 title: "Learning to Cache and Caching to Learn: Regret Analysis of Caching Algorithms, Archana Bura, Desik Rengarajan, Dileep Kalathil, Srinivas Shakkottai, Jean-Francois Chamberland-Tremblay"
 collection: publications
-category: Journals
+category: manuscripts
 permalink: /publication/LearningtoCacheToN
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2021-10-01
