@@ -10,3 +10,4 @@ slidesurl: 'http://archanabura.github.io/files/slides1.pdf'
 paperurl: 'http://archanabura.github.io/files/paper1.pdf'
 #citation: 'Your Name, You. (2022). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
+paperurl: 'http://archanabura.github.io/files/paper1.pdf'
