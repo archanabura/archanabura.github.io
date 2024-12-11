@@ -76,13 +76,13 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  manuscripts:
-    title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
   preprints:
     title: 'Preprints'
-
+  manuscripts:
+    title: 'Journal Articles'    
+ 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
