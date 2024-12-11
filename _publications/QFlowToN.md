@@ -1,7 +1,7 @@
 ---
 title: "Qflow: A learning approach to high qoe video streaming at the wireless edge, Rajarshi Bhattacharyya, Archana Bura, Desik Rengarajan, Mason Rumuly, Bainan Xia, Srinivas Shakkottai, Dileep Kalathil, Ricky KP Mok, Amogh Dhamdhere, IEEE/ACM Transactions on Networking, 2021"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/QFlowToN
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2021-10-01
