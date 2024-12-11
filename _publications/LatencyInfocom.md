@@ -3,7 +3,7 @@ title: "Latency analysis for distributed storage, Parimal Parag, Archana Bura, J
 collection: publications
 category: conferences
 permalink: /publication/LatencyInfocom
-excerpt: 'This paper is about fixing template issue #693.'
+# excerpt: 'This paper is about fixing template issue #693.'
 date: 2017-11-25
 venue: 'INFOCOM'
 paperurl: 'http://archanabura.github.io/files/paper3.pdf'
