@@ -7,7 +7,7 @@ permalink: /publication/LearningCMDPAAAI
 date: 2021-10-01
 venue: 'AAAI'
 slidesurl: 'http://archanabura.github.io/files/slides2.pdf'
-paperurl: 'http://archanabura.github.io/files/paper2.pdf'
+paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/16937'
 # citation: 'Your Name, You. (2021). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 

@@ -6,7 +6,7 @@ permalink: /publication/QFlowMobiHoc
 # excerpt: 'This paper is about fixing template issue #693.'
 date: 2019-07-17
 venue: 'Proceedings of the Twentieth ACM International Symposium on Mobile Ad Hoc Networking and Computing'
-paperurl: 'http://archanabura.github.io/files/paper3.pdf'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3323679.3326523'
 # citation: 'Your Name, You. (2019). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 

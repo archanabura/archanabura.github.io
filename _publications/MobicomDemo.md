@@ -6,7 +6,7 @@ permalink: /publication/WindexDemoMobicom
 # excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-11-17
 venue: 'Mobicom'
-paperurl: 'http://archanabura.github.io/files/paper3.pdf'
+paperurl: 'https://dl.acm.org/doi/10.1145/3636534.3700034'
 # citation: 'Your Name, You. (2019). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 

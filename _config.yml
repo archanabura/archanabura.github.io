@@ -21,9 +21,9 @@ repository               : "archanabura/archanabura.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "arcdp5.jpg"
   name             : "Archana Bura"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Postdoctoral Scholar at UCSD"
   location         : "San Diego"
   employer         : "University of California at San Diego"
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=cSNcSVIAAAAJ"
   #impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  #orcid            : "http://orcid.org/yourorcidurl"
   #semantic         : # URL
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL

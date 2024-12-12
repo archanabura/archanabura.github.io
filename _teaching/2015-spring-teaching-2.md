@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Detection and Estimation Theory"
 collection: teaching
-type: "Workshop"
+type: "Grauate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "GITAM University, Department of Electronics and Communications Engineering"
+date: 2013-01-01
+location: "Hyderabad, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+<!-- <p style="font-size:80%;"> Detection and Estimation Theory </p> -->
 
 Heading 1
 ======
