@@ -3,6 +3,30 @@
 # Changing the order here will adjust the order and you can also add additional
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
+# archana - to add more tabs to navigation, add here
+#
+# ====================================================================
+# Archana-Harish: How to add a new tab such as "Publications", "Talks"
+# ====================================================================
+#   *Step-1*  Add a new file pages/xyz.md with following YAML front matter block,
+#           where 
+#             a. 'permalink' with slashes decides the URL that accesses this page on the tab
+#             b. 'author_profile' indicates whether or not to show the
+#           page with sidebar containing the author related info or not
+# ---
+# permalink: /xyz/
+# title: " The name to appear in the tabs "
+# author_profile: true
+# ---
+#
+#   *Step-2*  Add the new page entry to the file: "data/navigation.yml" (this file),
+#           with two JSON fields: 
+# - title: xyz
+#   url: /xyz/
+#   
+#   Rest is to write your page using markdown syntax fully detailed in 
+#             '_pages/markdown.md'
+
 
 main:
   - title: "Publications"
@@ -14,6 +38,5 @@ main:
   - title: "Teaching"
     url: /teaching/
   
-    
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "Research"
+    url: /research/
