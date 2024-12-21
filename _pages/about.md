@@ -26,7 +26,9 @@ I have a doctorate from Computer Engineering and Systems Group in Electrical and
 <p>
             <ul>
                 <li style="font-size:90%;">[November 2024] 
-                <ul> <li> Presented a demo on Real time scheduling with RL for NextG cellular systems at Mobicom 2024. </li> </ul> </li>
+                <ul> <li> Presented a demo on Real time scheduling with RL for NextG cellular systems at Mobicom 2024, Washington DC. </li> 
+                <li> Co-presented poster on Application Aware Networking in NextG Cellular Networks with EdgeRIC at Mobicom 2024, Washington DC </li>
+                </ul> </li>
                 <li style="font-size:90%;">[October 2024] 
                 <ul> <li> US Patent on "Radio Resource Management" published. </li>
                 <li> Gave a tutorial on Bandit algorithms in Machine Learning group at UCSD.</li>
