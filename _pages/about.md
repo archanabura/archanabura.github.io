@@ -9,17 +9,17 @@ redirect_from:
 
 <!-- archana: To add front page content, add here -->
 <p style="font-size:100%;">
-Hello, I am a post doctoral scholar specializing in algorithms and theory of reinforcement learning with application to NextG Wireless networks and beyond. I work at University of California San Diego, in the Wireless Communications, Sensing and Networking group, hosted by Prof. Dinesh Bharadia.
+Hello, I am a post doctoral scholar specializing in algorithms and theory of reinforcement learning with application to NextG Wireless networks and beyond. I work at University of California San Diego, in the Wireless Communications, Sensing and Networking group, hosted by <a href="https://dineshb-ucsd.github.io">Prof. Dinesh Bharadia</a>.
 </p>
 
 <hr>
 
 <p style="font-size:90%;">
-I have a doctorate from Computer Engineering and Systems Group in Electrical and Computer Engineering Department at Texas A&M University, College Station. I was jointly advised by Prof. Srinivas Shakkottai, Dr. Dileep Kalathil and Prof. J-F-Chamberland. During my PhD, I worked as a Mobile Networking Research Co-Op at Nokia Bell Labs in Fall 2022. 
+I have a doctorate from Computer Engineering and Systems Group in Electrical and Computer Engineering Department at Texas A&M University, College Station. I was jointly advised by  <a href="https://cesg.tamu.edu/faculty/srinivas-shakkottai">Prof. Srinivas Shakkottai</a>, <a href="http://people.tamu.edu/~dileep.kalathil">Prof. Dileep Kalathil</a> and <a href="https://people.engr.tamu.edu/chmbrlnd/index.htmlProf">Prof. J-F-Chamberland</a>. During my PhD, I worked as a Mobile Networking Research Co-Op at <a href="https://www.bell-labs.com">Nokia Bell Labs</a> in Fall 2022. 
 </p>
 
 <p style="font-size:90%;">
- I obtained Masters in Engineering degree from Electrical and Computer Engineering Department at Indian Institute of Science, Bengaluru. Prior to joining the PhD program, I worked as a Research Assistant at ECE Department, Indian Institute of science, with Prof. Parimal Parag. Prior to that, I also worked for Samsung R&D Institute, Bengaluru.
+ I obtained Masters in Engineering degree from Electrical and Computer Engineering Department at Indian Institute of Science, Bengaluru, under the supervision of <a href="https://scholar.google.com/citations?user=VGSU3YUAAAAJ&hl=en">Prof. Vinod Sharma</a>. Prior to joining the PhD program, I worked as a Research Assistant at ECE Department, Indian Institute of science, with <a href="https://ece.iisc.ac.in/~parimal/">Prof. Parimal Parag</a>. Prior to that, I also worked for Samsung R&D Institute, Bengaluru.
 </p>
 
 <h2>News</h2>
@@ -28,7 +28,8 @@ I have a doctorate from Computer Engineering and Systems Group in Electrical and
                 <li style="font-size:90%;">[November 2024] 
                 <ul> <li> Presented a demo on Real time scheduling with RL for NextG cellular systems at Mobicom 2024. </li> </ul> </li>
                 <li style="font-size:90%;">[October 2024] 
-                <ul> <li> Gave a tutorial on Bandit algorithms in Machine Learning group at UCSD.</li>
+                <ul> <li> US Patent on "Radio Resource Management" published. </li>
+                <li> Gave a tutorial on Bandit algorithms in Machine Learning group at UCSD.</li>
                 <li> "Demo: Realtime Neural Whittle Indexing for Scalable Service Guarantees in NextG Cellular Networks" has been accepted at Mobicom 2024. </li>
                 </ul>
                 </li>
