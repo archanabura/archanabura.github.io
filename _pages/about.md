@@ -25,6 +25,13 @@ I have a doctorate from Computer Engineering and Systems Group in Electrical and
 <h2>News</h2>
 <p>
             <ul>
+                <li style="font-size:90%;">[Febraury 2025] 
+                <ul> <li> Gave a talk on "Structured Reinforcement Learning for Wireless Networks" at Information Theory and Applications Workshop 2025. </li>
+                </ul> </li>
+                <li style="font-size:90%;">[January 2025] 
+                <ul> <li> Manuscript titled "Structure Aided Reinforcement Learning approach to Media Streaming at the Wireless Edge" is submitted to ToN </li>
+                <li> A Manuscript on NextG networks submitted </li>
+                </ul> </li>
                 <li style="font-size:90%;">[November 2024] 
                 <ul> <li> Presented a demo on Real time scheduling with RL for NextG cellular systems at Mobicom 2024, Washington DC. </li> 
                 <li> Co-presented poster on Application Aware Networking in NextG Cellular Networks with EdgeRIC at Mobicom 2024, Washington DC </li>
